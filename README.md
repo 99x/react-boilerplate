@@ -15,8 +15,8 @@ open http://localhost:8080
 
 FEATURES 
 ========
--compilation with webpack 
--live reload 
+- compilation with webpack 
+- live reload 
 
 
 
