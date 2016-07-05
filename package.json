@@ -4,7 +4,7 @@
   "description": "Boilerplate for ReactJS project live reloading enabled",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --hot",
+    "start": "webpack-dev-server --content-base src/ --hot",
     "test": "echo \"Error: no test specified\" && exit 1"
   },  
   "keywords": [
