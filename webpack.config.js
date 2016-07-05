@@ -4,15 +4,15 @@ const env = process.env.NODE_ENV || 'development';
 const NODEMODULES = path.resolve(__dirname, 'node_modules');
 
 const config = {
-   entry: path.resolve(__dirname, 'src/main.js'),
+   entry: path.resolve(__dirname, './src/main.js'),
 	
    output: {
-      path:'./',
       filename: path.resolve(__dirname, 'src/index.js'),
    },
 	
    devServer: {
       inline: true,
+      publicPath: '/src/',
       port: 8080
    },
 	
@@ -27,7 +27,8 @@ const config = {
             }
          }
       ]
-   }
+   },
+   watch: true
 }
 
 module.exports = config;
