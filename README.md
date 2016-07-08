@@ -17,7 +17,7 @@ FEATURES
 ========
 - compilation with webpack 
 - live reload 
-
+- build on changes
 
 
 DEPENDNCIES
