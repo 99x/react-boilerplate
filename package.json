@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --content-base src/ --hot",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },  
   "keywords": [
     "react",
@@ -18,9 +18,8 @@
     "edit",
     "webpack"
   ],
-  
-  "author": "99xTechShift",
-  "license": "ISC",
+  "author": "99xtechnology.com",
+  "license": "MIT",
   "dependencies": {
     "react": "^15.1.0",
     "react-dom": "^15.1.0"
