@@ -1,5 +1,7 @@
 #React Boilerplate 
 
+Unopinionated boilerplate for react, react-flux or react-redux.
+
 ##Usage 
 
 ```
@@ -13,7 +15,6 @@ open http://localhost:8080
 
 ##Features 
 
-- unopinionated, can be used with flux or redux
 - compilation with webpack 
 - live reload 
 - build on changes
