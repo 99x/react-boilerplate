@@ -7,7 +7,7 @@ const config = {
    entry: path.resolve(__dirname, './src/main.js'),
 	
    output: {
-      filename: path.resolve(__dirname, 'src/index.js'),
+      filename: path.resolve(__dirname, 'src/build/bundle.js'),
    },
 	
    devServer: {
