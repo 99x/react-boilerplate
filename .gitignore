@@ -38,4 +38,4 @@ jspm_packages
 .node_repl_history
 
 #webpack build
-src/index.js
+src/build/bundle.js
