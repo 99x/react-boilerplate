@@ -1,26 +1,25 @@
 #React Boilerplate 
 
-
-
-
 ##Usage 
 
-- clone react-boilerplate 
 ```
+git clone https://github.com/99xt/react-boilerplate
+cd react-boilerplate
 npm install
 npm start
 open http://localhost:8080
 ```
 
 
-##FEATURES 
+##Features 
 
+- unopinionated, can be used with flux or redux
 - compilation with webpack 
 - live reload 
 - build on changes
 
 
-##DEPENDNCIES
+##Dependencies
 
 - react 
 - babel 
