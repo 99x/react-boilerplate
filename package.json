@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --content-base src/ --hot",
+    "build": "webpack",
     "test": ""
   },
   "keywords": [
