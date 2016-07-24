@@ -8,6 +8,7 @@ Unopinionated boilerplate for react, react-flux or react-redux.
 git clone https://github.com/99xt/react-boilerplate
 cd react-boilerplate
 npm install
+webpack
 npm start
 open http://localhost:8080
 ```
