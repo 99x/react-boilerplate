@@ -1,5 +1,11 @@
 #React Boilerplate 
 
+<h1 align="center">
+<br>
+<img src="https://raw.githubusercontent.com/rajikaimal/react-boilerplate/master/docs/img/react-boilerplate.png">
+<br>
+</h1>
+
 Unopinionated boilerplate for react, react-flux or react-redux.
 
 ##Usage 
