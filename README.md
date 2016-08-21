@@ -1,5 +1,7 @@
 #React Boilerplate 
 
+->![react-boilerplate](https://github.com/rajikaimal/react-boilerplate/blob/master/docs/img/react-boilerplate.svg)<-
+
 Unopinionated boilerplate for react, react-flux or react-redux.
 
 ##Usage 
