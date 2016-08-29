@@ -1,5 +1,7 @@
 #React Boilerplate 
 
+[![Join the chat at https://gitter.im/react-boilerplate/Lobby](https://badges.gitter.im/react-boilerplate/Lobby.svg)](https://gitter.im/react-boilerplate/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <h1 align="center">
 <br>
 <img src="https://raw.githubusercontent.com/rajikaimal/react-boilerplate/master/docs/img/react-boilerplate.png">
