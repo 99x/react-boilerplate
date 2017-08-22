@@ -1,4 +1,4 @@
-#React Boilerplate 
+# React Boilerplate 
 
 [![Join the chat at https://gitter.im/react-boilerplate/Lobby](https://badges.gitter.im/react-boilerplate/Lobby.svg)](https://gitter.im/react-boilerplate/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -10,7 +10,7 @@
 
 Unopinionated boilerplate for react, react-flux or react-redux.
 
-##Usage 
+## Usage 
 
 ```
 git clone https://github.com/99xt/react-boilerplate
@@ -22,14 +22,14 @@ open http://localhost:8080
 ```
 
 
-##Features 
+## Features 
 
 - compilation with webpack 
 - live reload 
 - build on changes
 
 
-##Dependencies
+## Dependencies
 
 - react 
 - babel 
